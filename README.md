@@ -3,16 +3,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First, run the development server:
+1. Clone the repo with ```git clone https://github.com/arpitx35/open-source-demo.git```
+2. Change the current directory to open-source-demo with ```cd open-source-demo```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Linux
+1. Now if on linux install npm with ```sudo apt install npm``` for debian based distros
+2. Then run this command inside the project directory ```npx create-next-app@latest <your-name>``` just replace the tag with your name
+3. Then run the development server with ```npm run dev```
+
+### Windows
+1. Install npm and follow step 2 and 3
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
