@@ -29,6 +29,8 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
           <li>Let's collaborate.</li>
+          <li>Vansh</li>
+          <li>yufguyfuy</li>
         </ol>
       </main>
     </div>
